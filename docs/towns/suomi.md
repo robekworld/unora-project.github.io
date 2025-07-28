@@ -8,30 +8,30 @@
 
 ## Shops
 
-???+ abstract "Aingeal"
+???+ abstract "Alvar"
 
-    {{ read_csv('../shops/mileth/aingeal.csv') }}
+    {{ read_csv('../shops/suomi/alvar.csv') }}
 
-???+ abstract "Callo"
+???+ abstract "Fisk"
 
-    {{ read_csv('../shops/mileth/callo.csv') }}
+    {{ read_csv('../shops/suomi/fisk.csv') }}
 
-???+ abstract "Josephine"
+???+ abstract "Goran"
 
-    {{ read_csv('../shops/mileth/josephine.csv') }}
+    {{ read_csv('../shops/suomi/goran.csv') }}
 
-???+ abstract "Nisk"
+???+ abstract "Gudny"
 
-    {{ read_csv('../shops/mileth/nisk.csv') }}
+    {{ read_csv('../shops/suomi/gudny.csv') }}
 
-???+ abstract "Oona"
+???+ abstract "Torbjorn"
 
-    {{ read_csv('../shops/mileth/oona.csv') }}
+    {{ read_csv('../shops/suomi/torbjorn.csv') }}
 
-???+ abstract "Torrance"
+???+ abstract "Valdemar"
 
-    {{ read_csv('../shops/mileth/torrance.csv') }}
+    {{ read_csv('../shops/suomi/valdemar.csv') }}
 
-???+ abstract "Urza"
+???+ abstract "Viveka"
 
-    {{ read_csv('../shops/mileth/urza.csv') }}
+    {{ read_csv('../shops/suomi/viveka.csv') }}
