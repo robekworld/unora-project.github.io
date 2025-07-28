@@ -4,7 +4,7 @@
 
 ## Mundanes
 
-{{ read_csv('./csv/mileth/npcs.csv') }}
+{{ read_csv('./csv/suomi/npcs.csv') }}
 
 ## Shops
 
